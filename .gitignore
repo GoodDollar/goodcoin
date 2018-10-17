@@ -4,3 +4,5 @@
 /build
 /app/node_modules
 /app/.env
+.env
+secrets.json
