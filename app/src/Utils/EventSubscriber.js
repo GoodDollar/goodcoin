@@ -46,4 +46,4 @@ class EventSubscriber {
 
 }
 
-module.exports = EventSubscriber;
+export default EventSubscriber;

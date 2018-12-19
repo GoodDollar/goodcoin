@@ -2,7 +2,6 @@
 import 'babel-polyfill'; // required *exactly here* to avoid this error: "ReferenceError: regeneratorRuntime is not defined" // see: https://github.com/babel/babel/issues/5085
 import $ from 'jquery';
 
-
 import Actions from './Utils/Actions'
 import EventSubscriber from './Utils/EventSubscriber'
 import Logger from './Utils/Logger'
